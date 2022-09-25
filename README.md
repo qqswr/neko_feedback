@@ -4,7 +4,7 @@
 
 <code>  git clone https://github.com/nekoo1/neko_feedback</code>
 
-<code>  cd neko_feedbackbot/</code>
+<code>  cd neko_feedback/</code>
 
 <h3>Install mongodb.</h3>
 <nav>
