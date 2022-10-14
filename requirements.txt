@@ -1,4 +1,4 @@
-pyrogram
+pyrogram==1.4.16 --force-reinstall
 tgcrypto
 pymongo
 motor
