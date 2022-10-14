@@ -1,4 +1,4 @@
-<h1>neko feedback bot.(@neko_feedback_bot)</h1>
+<h1>neko feedback bot (@neko_feedback_bot)</h1>
 
 <h2>Installation.</h2>
 
